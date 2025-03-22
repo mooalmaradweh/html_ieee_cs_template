@@ -1,0 +1,15 @@
+Orange (main color):
+HEX      #ffa41c
+RGB      255, 164, 28
+
+Black: 
+HEX      #121315
+RGB      18, 19, 21
+
+White:
+HEX      #ffffff
+RGB      255, 255, 255
+
+Gray:
+HEX      #373940
+RGB      55, 57, 64

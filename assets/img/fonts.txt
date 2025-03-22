@@ -1,0 +1,10 @@
+Fonts:
+Abel Regular (TrueType)
+Rubik Bold (TrueType)
+Rubik Regular (TrueType)
+Ubuntu Light (TrueType)
+Ubuntu Bold (TrueType)
+Ubuntu Arabic Bold (TrueType)
+IBM Plex Sans Arabic Bold (TrueType)
+IBM Plex Sans Arabic Light (TrueType)
+Adobe Arabic Regular (OTF)
