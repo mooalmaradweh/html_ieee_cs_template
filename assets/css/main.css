@@ -1440,8 +1440,8 @@ a:focus {
  ::::::::::::::::::::::::::
  */
 :root {
-  --vtc-text-title1: #090B0E;
-  --vtc-text-title2: #0B0314;
+  --vtc-text-title1: hsl(0, 0%, 100%);
+  --vtc-text-title2: hsl(0, 0%, 100%);
   --vtc-text-pera1: #3D4C5E;
   --vtc-text-white: #fff;
   --vtc-text-white80per: rgba(255, 255, 255, 0.8274509804);
